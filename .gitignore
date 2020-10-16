@@ -1,7 +1,0 @@
-# build files
-*.o
-*.elf
-*.hex
-*.out
-.elf
-.o
